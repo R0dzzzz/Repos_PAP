@@ -1,2 +1,2 @@
-# PAP da Rosário
+# PAP
 projeto da PAP da Rosário
